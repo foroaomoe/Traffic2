@@ -17,7 +17,7 @@
         android:id="@+id/textView"
         android:textAlignment="center"
         android:textSize="@dimen/h1"
-        android:textColor="#a64687"
+        android:textColor="@color/colorAccent"
         android:textStyle="bold"
         android:layout_centerHorizontal="true" />
 
